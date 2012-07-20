@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'user_okf'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">OKF</label>
+			<label index="user_okf_photo_images">photo_images</label>
+			<label index="user_okf_photo_images.image_id">image_id</label>
+			<label index="user_okf_photo_images.cat_id">cat_id</label>
+			<label index="user_okf_photo_images.image_name">image_name</label>
+			<label index="user_okf_photo_images.image_thumb_file">image_thumb_file</label>
+			<label index="user_okf_photo_images.image_allow_comments">image_allow_comments</label>
+			<label index="user_okf_photo_images.image_allow_itsme">image_allow_itsme</label>
+			<label index="user_okf_photo_images.image_comments">image_comments</label>
+			<label index="user_okf_photo_images.image_hits">image_hits</label>
+			<label index="user_okf_photo_images.image_votes">image_votes</label>
+			<label index="user_okf_photo_categories">photo_categories</label>
+			<label index="user_okf_photo_categories.cat_id">cat_id</label>
+			<label index="user_okf_photo_categories.cat_name">cat_name</label>
+			<label index="user_okf_photo_categories.cat_description">cat_description</label>
+			<label index="user_okf_photo_categories.cat_parent_id">cat_parent_id</label>
+			<label index="user_okf_photo_categories.cat_hits">cat_hits</label>
+			<label index="user_okf_photo_categories.cat_order">cat_order</label>
+			<label index="user_okf_photo_categories.cat_hires">cat_hires</label>
+			<label index="user_okf_photo_categories.cat_since">cat_since</label>
+			<label index="user_okf_photo_categories.cat_time">cat_time</label>
+			<label index="user_okf_photo_categories.cat_location">cat_location</label>
+			<label index="user_okf_photo_categories.cat_type">cat_type</label>
+			<label index="user_okf_photo_categories.auth_viewcat">auth_viewcat</label>
+			<label index="user_okf_photo_categories.auth_vote">auth_vote</label>
+			<label index="user_okf_photo_categories.auth_postcomment">auth_postcomment</label>
+			<label index="user_okf_photo_categories.auth_votepic">auth_votepic</label>
+			<label index="user_okf_locations">locations</label>
+			<label index="user_okf_locations.id">id</label>
+			<label index="user_okf_locations.cat_id">cat_id</label>
+			<label index="user_okf_locations.premium">premium</label>
+			<label index="user_okf_locations.name">name</label>
+			<label index="user_okf_locations.typ">typ</label>
+			<label index="user_okf_locations.typ2">typ2</label>
+			<label index="user_okf_locations.typ3">typ3</label>
+			<label index="user_okf_locations.strasse">strasse</label>
+			<label index="user_okf_locations.plz">plz</label>
+			<label index="user_okf_locations.ort">ort</label>
+			<label index="user_okf_locations.email">email</label>
+			<label index="user_okf_locations.telefon">telefon</label>
+			<label index="user_okf_locations.fax">fax</label>
+			<label index="user_okf_locations.url">url</label>
+			<label index="user_okf_locations.offen">offen</label>
+			<label index="user_okf_locations.dresscode">dresscode</label>
+			<label index="user_okf_locations.age">age</label>
+			<label index="user_okf_locations.beschreibung">beschreibung</label>
+			<label index="user_okf_locations.hits">hits</label>
+			<label index="user_okf_locations.since">since</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tt_content.list_type_pi1">OKF</label>
+			<label index="user_okf_photo_images">photo_images</label>
+			<label index="user_okf_photo_images.image_id">image_id</label>
+			<label index="user_okf_photo_images.cat_id">cat_id</label>
+			<label index="user_okf_photo_images.image_name">image_name</label>
+			<label index="user_okf_photo_images.image_thumb_file">image_thumb_file</label>
+			<label index="user_okf_photo_images.image_allow_comments">image_allow_comments</label>
+			<label index="user_okf_photo_images.image_allow_itsme">image_allow_itsme</label>
+			<label index="user_okf_photo_images.image_comments">image_comments</label>
+			<label index="user_okf_photo_images.image_hits">image_hits</label>
+			<label index="user_okf_photo_images.image_votes">image_votes</label>
+			<label index="user_okf_photo_categories">photo_categories</label>
+			<label index="user_okf_photo_categories.cat_id">cat_id</label>
+			<label index="user_okf_photo_categories.cat_name">cat_name</label>
+			<label index="user_okf_photo_categories.cat_description">cat_description</label>
+			<label index="user_okf_photo_categories.cat_parent_id">cat_parent_id</label>
+			<label index="user_okf_photo_categories.cat_hits">cat_hits</label>
+			<label index="user_okf_photo_categories.cat_order">cat_order</label>
+			<label index="user_okf_photo_categories.cat_hires">cat_hires</label>
+			<label index="user_okf_photo_categories.cat_since">cat_since</label>
+			<label index="user_okf_photo_categories.cat_time">cat_time</label>
+			<label index="user_okf_photo_categories.cat_location">cat_location</label>
+			<label index="user_okf_photo_categories.cat_type">cat_type</label>
+			<label index="user_okf_photo_categories.auth_viewcat">auth_viewcat</label>
+			<label index="user_okf_photo_categories.auth_vote">auth_vote</label>
+			<label index="user_okf_photo_categories.auth_postcomment">auth_postcomment</label>
+			<label index="user_okf_photo_categories.auth_votepic">auth_votepic</label>
+			<label index="user_okf_locations">locations</label>
+			<label index="user_okf_locations.id">id</label>
+			<label index="user_okf_locations.cat_id">cat_id</label>
+			<label index="user_okf_locations.premium">premium</label>
+			<label index="user_okf_locations.name">name</label>
+			<label index="user_okf_locations.typ">typ</label>
+			<label index="user_okf_locations.typ2">typ2</label>
+			<label index="user_okf_locations.typ3">typ3</label>
+			<label index="user_okf_locations.strasse">strasse</label>
+			<label index="user_okf_locations.plz">plz</label>
+			<label index="user_okf_locations.ort">ort</label>
+			<label index="user_okf_locations.email">email</label>
+			<label index="user_okf_locations.telefon">telefon</label>
+			<label index="user_okf_locations.fax">fax</label>
+			<label index="user_okf_locations.url">url</label>
+			<label index="user_okf_locations.offen">offen</label>
+			<label index="user_okf_locations.dresscode">dresscode</label>
+			<label index="user_okf_locations.age">age</label>
+			<label index="user_okf_locations.beschreibung">beschreibung</label>
+			<label index="user_okf_locations.hits">hits</label>
+			<label index="user_okf_locations.since">since</label>
+		</languageKey>
+	</data>
+</T3locallang>
